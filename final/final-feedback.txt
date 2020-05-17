@@ -1,0 +1,19 @@
+PART 1:
+Good work!
+
+PART 2:
+Great
+
+PART 3:
+Excellent
+
+PART 4:
+OK, but looping through the ids is a bit inefficient.
+
+PART 5:
+Good work.
+
+PART 6:
+Thanks for your thoughts.
+
+
